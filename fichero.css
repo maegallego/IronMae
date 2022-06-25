@@ -64,9 +64,9 @@ text{
 
 .header{
     background-image: url( "https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg.");
-    position: 0 0;
-    repeat: no-repeat;
-    size: cover;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
     height:650px;
 }
 
